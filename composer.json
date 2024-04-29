@@ -1,6 +1,6 @@
 {
     "name": "dcat-kk/laravel-admin-11",
-    "description": "dcat admin 11",
+    "description": "dcat admin 11,修改dcat-admin 用来支持laravel 11版本",
     "type": "library",
     "keywords": ["dcat", "laravel", "admin", "grid", "form", "laravel admin"],
     "homepage": "https://github.com/jqhph/dcat-admin",
